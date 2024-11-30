@@ -1,0 +1,11 @@
+{
+  "name": "workout_web_application",
+  "version": "1.0.0",
+  "description": "A web app built using vue that creates custom workout and diet plans for users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Caldera",
+  "license": "MIT"
+}
